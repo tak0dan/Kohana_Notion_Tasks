@@ -1,0 +1,139 @@
+subject: recruitment
+
+
+
+structure: a short video, an interactive quiz (Kahoot) and a presentation where we talk
+
+
+
+Short video for the presentation of 2 candidates (Amelie and Giovanni)
+
+structure: 
+
+we  are presenting ourselves
+
+we are presenting our 2 candidates (fictional characters) with the 2 short videos (2 minutes Step 1 and 2)
+
+we put a situation about recruitment process or something else and ask a question (quizz) see session2
+
+people vote for the candidate most adapted for the situation
+
+we explain the answer and say some information about why this choice (course content)
+
+we present another case
+
+
+
+roles: 
+
+doing character 1
+
+doing character 2 
+
+one case: Louise
+
+one case: Yelyzaveta
+
+one case: Camille
+
+
+
++slides
+
+
+
+
+
+
+
+3 cases: 4min for each case: explain facts and make sure class has time to answer, and then explain the answer
+
+Video 1: Amélie (≈ 2 min, ~260 words)
+
+[0:00–0:20] Introduction “Hello, I’m Amélie. I’m 34, and I’m an HR Business Partner at a large industrial group. I’ve spent eight years working with managers on hiring, performance and workforce planning.”
+
+[0:20–0:55] Background “I started as an HR assistant, then moved into recruitment, and I now support three business units. I’m certified in HR analytics, and I built our group’s competency framework. Every role has clear criteria, and every decision is documented.”
+
+[0:55–1:30] Strengths “What I do best is create fairness through structure. Same questions for every candidate, clear objectives for every employee, indicators to track what works. I’m comfortable with compliance, labour law and reporting. When something goes wrong, I like to find the root cause in the data.”
+
+[1:30–1:50] Weaknesses “I know I can be slow. I like to check before acting, and I’m less comfortable when a situation is ambiguous or changes every week. Sometimes people tell me I’m a bit formal.”
+
+[1:50–2:00] Closing “I believe good HR is fair, consistent and evidence-based. Thank you for your time.”
+
+
+
+Video 2: Giovanni (≈ 2 min, ~260 words)
+
+[0:00–0:20] Introduction “Hey, I’m Giovanni, 29. I’m a talent recruiter at a scale-up that grew from 40 to 300 people in three years. I love meeting people and finding where they’ll shine.”
+
+[0:20–0:55] Background “I started in a startup, where I was doing everything: sourcing, interviews, even office parties. I now lead recruitment, and I built our employer brand from nothing. Most of our best hires came from my network and from events I organised.”
+
+[0:55–1:30] Strengths “I’m good at reading people and making candidates feel welcome. I move fast, and I know how to sell a company without lying. I also care about culture, so I always make sure the newcomer has someone to talk to on day one.”
+
+[1:30–1:50] Weaknesses “My weak spot is process. I decide a lot on instinct, and I don’t always document why. I know that can create bias, and it’s something I’m working on.”
+
+[1:50–2:00] Closing “For me, hiring is first a human conversation. Let’s talk!”
+
+Kahoot questions
+
+Chaque question a une limite de 120 caractères, et chaque réponse de 75. Timer conseillé : 30 secondes.
+
+Q1 (Selection) 12 agents to hire in 3 weeks, 300 applications. Who runs the selection?
+
+Amélie: same grid and work-sample test for everyone
+
+Giovanni: fast, friendly chats, decide on instinct
+
+Both, but in two separate rounds
+
+Neither
+
+Q2 (Onboarding) 30% of new hires leave within 6 months. Who redesigns onboarding?
+
+Amélie: 90-day plan with clear objectives and check-ins
+
+Giovanni: buddy system, team rituals, culture stories
+
+Both: they fix different gaps
+
+Neither
+
+Réponse : Both (Amélie = Compliance/Clarification, Giovanni = Culture/Connection).
+
+Q3 (Performance) A star salesperson beats targets but hurts the team. Who conducts the review?
+
+Amélie: formal appraisal with results AND behaviours
+
+Giovanni: celebrate results, informal coaching talk
+
+Both
+
+Neither
+
+Réponse : Amélie.
+
+Q4 (Diversity) 60% of hires come from referrals and the team looks the same. Who fixes it?
+
+Amélie: anonymised CVs and standard criteria
+
+Giovanni: proactive sourcing in new communities
+
+Both
+
+Neither
+
+Réponse : Giovanni.
+
+Question bonus (ouverture, avant la Q1) : Which method best predicts job performance?
+
+Unstructured interview
+
+Structured interview
+
+Graphology
+
+Years of experience
+
+Réponse : Structured interview.
+
+

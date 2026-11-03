@@ -51,3 +51,13 @@ Subpages contain only subtask names, no descriptions or attachments.
 - **Міжнародна економіка завдання3** (11/10, not started)
 - **Євроінтеграція - Медицина** (11/10, not started)
 - **HRM project** (11/12, in progress)
+
+## Update 2026-11-03 (Liza added content in Notion)
+- **Нові задачі:** Валютна політика дз (11/08, Urgent): таблиця прямих/непрямих податків, країна Франція. Облік і аудит реферат (11/14, 2nd, effort high): вимоги у файлі «Вимоги до реферату.doc».
+- **Міжнародна економіка завдання2 (11/05):** презентація «Альтернативні види інвестування», українською, 7–10 хв (план у README задачі).
+- **Project Management resources and risk (11/06):** RACI людських ресурсів, матеріальні і фінансові ресурси, матриця ризиків; є Google Doc.
+- **HRM project (11/12):** group project про recruitment (відео + Kahoot + презентація); нотатки перенесено в `tasks/2026-11-12_HRM_project/materials/`.
+- **Euro-integration:** назви тепер з «Естонії» (Medical sphere of Estonia etc.); підсторінки поки порожні.
+- **German oral (11/10):** прикріплено діалог про навчання/Auslandssemester (Google Doc).
+- Ще прикріплено: Research methodology 2 (Google Doc), Econometrics midterm2 (BSc2 chap2 p.1-34.pdf), Міжнародна економіка інд. дослідження і ргр (Google Docs).
+- **Не вдалося прочитати:** сторінки Маркетинг тема 4, Geopolitics, Облік, МЕ завдання3 (порожні в Notion або не завантажились).
