@@ -1,0 +1,98 @@
+# Detailed Answers (audio vocabulary questions)
+
+Method: each audio file was downloaded and transcribed locally (faster-whisper). For the "WITHOUT a definition" questions, Definition 1 (from the text) plus the two definitions heard in the audio cover three options; the remaining option is the answer.
+
+## Q4: Harry's main responsibility
+**Answer: To ensure that the music is in stock and keep track of his profits.**
+Audio: "So, all you have to do is make sure you have the product in stock and count your profits." Holman Multimedia designs, builds and manages the website, handles payments and can handle logistics; Harry pays a monthly fee, with no capital investment or new staff.
+
+## Q6
+Def 1: to make someone feel less worried → **to reassure**
+Audio: "unwilling or hesitant to do something" → reluctant; "to expect something to happen and prepare for it" → to anticipate
+**Answer: to expand**
+
+## Q7
+Def 1: reach agreement halfway between two amounts → **to split the difference**
+Audio: "an agreement in which both sides accept less than they wanted" → compromise; "a situation in which all parties benefit" → win-win
+**Answer: to set aside**
+
+## Q13
+Def 1: to stop something suddenly, e.g. negotiations → **to break off**
+Audio: "an offer made with definite terms the person is prepared to stand by" → firm offer; "not final or certain, a preliminary suggestion" → tentative
+**Answer: to commit oneself to**
+
+## Q15
+Def 1: to look through information or products without choosing → **to browse**
+Audio: "not working properly because of a defect" → faulty; "a card that gives regular customers benefits or rewards" → loyalty card
+**Answer: refund**
+
+## Q16
+Def 1: hotel room/set of rooms for business travellers or executives → **executive suite**
+Audio: "a place to which someone is traveling or intends to arrive" → destination; "a trip or event for which all costs are covered by someone else" → all-expenses paid
+**Answer: accommodation**
+
+## Q18
+Def 1: to provide a good reason or explanation → **to justify**
+Audio: "a statement of the price that will be charged for goods or services" → quotation; "to return money that has been paid" → to refund
+**Answer: reminder**
+
+## Q29
+Def 1: making someone feel uncomfortable or ashamed in front of others → **embarrassing**
+Audio: "making someone feel enthusiastic or motivated" → inspiring; "causing annoyance because something is difficult or prevents achieving what one wants" → frustrating
+**Answer: exhausted**
+
+## Q30
+Def 1: a computer that provides data/services to other computers → **server**
+Audio: "the period when a machine or computer system is unavailable" → down time; "operating normally and ready to be used" → up and running
+**Answer: software**
+
+## Q31
+Def 1: extremely upset or distressed by an unpleasant event → **devastated**
+Audio: "extremely shocked or surprised by something unexpected" → gobsmacked; "feeling much less anxious after a worry has passed" → relieved
+**Answer: overwhelmed**
+
+## Q32
+Def 1: business bank account for receiving card payments → **merchant account**
+Audio: "a method or arrangement for transferring money between buyer and seller" → payment system; "money invested in long-term assets such as buildings, land, equipment" → capital investment
+**Answer: premises**
+
+## Q37
+Def 1: at the time goods are delivered → **on delivery**
+Audio: "not currently available for purchase because none left" → out of stock; "a charge for carrying out a financial operation" → transaction fee
+**Answer: to ship**
+
+## Q42
+Def 1: rewards from purchases usable for travel → **air miles**
+Audio: "a record from a bank showing transactions over a period" → bank statement; "the amount of money remaining in an account" → balance
+**Answer: addictive**
+
+## Q43
+Def 1: number of people entering or passing a place, esp. a shop → **foot traffic**
+Audio: "the percentage of people who complete a desired action out of those who visit a website or see an ad" → conversion rate; "looking at products or information online without visiting a shop" → virtual browsing
+**Answer: household name**
+
+## Summary
+| Q | Answer |
+|---|---|
+| 4 | To ensure that the music is in stock and keep track of his profits. |
+| 6 | to expand |
+| 7 | to set aside |
+| 13 | to commit oneself to |
+| 15 | refund |
+| 16 | accommodation |
+| 18 | reminder |
+| 29 | exhausted |
+| 30 | software |
+| 31 | overwhelmed |
+| 32 | premises |
+| 37 | to ship |
+| 42 | addictive |
+| 43 | household name |
+
+Q48: to get one's claws into someone
+Q50: account
+Q53: to affirm
+Q54: replacement
+Q63: fastest-growing
+Q67: to allocate
+Q68: penalty

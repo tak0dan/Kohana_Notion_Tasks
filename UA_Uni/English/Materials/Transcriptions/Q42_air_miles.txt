@@ -1,0 +1,1 @@
+A record provided by a bank, showing transactions on an account over a period of time. The amount of money remaining in an account after transactions have been taken into consideration.
