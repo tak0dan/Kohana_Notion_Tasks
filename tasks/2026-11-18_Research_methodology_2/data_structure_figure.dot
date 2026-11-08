@@ -1,0 +1,52 @@
+digraph G {
+  rankdir=LR; splines=ortho; nodesep=0.18; ranksep=0.9; bgcolor="white";
+  node [shape=box, style="rounded,filled", fontname="Helvetica", fontsize=10, margin="0.10,0.05"];
+  edge [color="#8a94a6", arrowsize=0.6];
+
+  subgraph cluster_h { label=""; style=invis;
+    h1 [label="1st-order codes\n(examples)", shape=plaintext, style=""];
+    h2 [label="2nd-order themes", shape=plaintext, style=""];
+    h3 [label="Aggregate\ndimensions", shape=plaintext, style=""]; }
+
+  // aggregate dimensions
+  A [label="A. Pragmatic value\nof AI", fillcolor="#1f3a5f", fontcolor=white, fontsize=12];
+  B [label="B. Authenticity and\nhuman presence", fillcolor="#7a2e5e", fontcolor=white, fontsize=12];
+  C [label="C. Human oversight\nas a safeguard", fillcolor="#2e6b5a", fontcolor=white, fontsize=12];
+  D [label="D. Transparency, trust\nand consumer reaction", fillcolor="#a0521d", fontcolor=white, fontsize=12];
+
+  // themes
+  t1 [label="Practical Efficiency", fillcolor="#dbe6f5"];
+  t2 [label="Tool vs. Replacement", fillcolor="#dbe6f5"];
+  t3 [label="Consumer Acceptance", fillcolor="#dbe6f5"];
+  t4 [label="Marketing vs. Product\nSeparation", fillcolor="#dbe6f5"];
+  t5 [label="Authenticity &\nDifferentiation", fillcolor="#f2dcea"];
+  t6 [label="Core / Raw Authenticity", fillcolor="#f2dcea"];
+  t7 [label="Human Connection &\nEmotional Authenticity", fillcolor="#f2dcea"];
+  t8 [label="Human Oversight & Care", fillcolor="#d9ede6"];
+  t9 [label="Active Human Participation", fillcolor="#d9ede6"];
+  t10 [label="Strategic AI Boundaries /\nMachine Limits", fillcolor="#d9ede6"];
+  t11 [label="Transparency & Honesty", fillcolor="#f6e3d3"];
+  t12 [label="Stigma & Disclosure\nExpectations", fillcolor="#f6e3d3"];
+  t13 [label="Ethics & Consumer Trust", fillcolor="#f6e3d3"];
+  t14 [label="Consumer Sensitivity to AI", fillcolor="#f6e3d3"];
+
+  // codes (examples from the consolidated table)
+  c1 [label="AI as a cost- and time-saving tool", fillcolor="#f7f9fc"];
+  c2 [label="AI as a complement to\nhuman creativity", fillcolor="#f7f9fc"];
+  c3 [label="Acceptance of AI in\nfunctional advertising", fillcolor="#f7f9fc"];
+  c4 [label="AI use does not undermine\nproduct credibility", fillcolor="#f7f9fc"];
+  c5 [label="Human presence as a defining\nfeature of small businesses", fillcolor="#f7f9fc"];
+  c6 [label="Owner's original vision as\nsource of authenticity", fillcolor="#f7f9fc"];
+  c7 [label="Preference for human-authored\npersonal stories", fillcolor="#f7f9fc"];
+  c8 [label="Human review and\nquality control", fillcolor="#f7f9fc"];
+  c9 [label="Human guidance of\nAI outputs", fillcolor="#f7f9fc"];
+  c10 [label="Establishing appropriate\nlimits for AI use", fillcolor="#f7f9fc"];
+  c11 [label="Preference for transparent\nAI disclosure", fillcolor="#f7f9fc"];
+  c12 [label="Disclosure cannot fully\novercome AI stigma", fillcolor="#f7f9fc"];
+  c13 [label="Non-disclosure as a breach\nof consumer trust", fillcolor="#f7f9fc"];
+  c14 [label="Negative reactions to\nvisible AI", fillcolor="#f7f9fc"];
+
+  h1 -> h2 -> h3 [style=invis];
+  c1->t1; c2->t2; c3->t3; c4->t4; c5->t5; c6->t6; c7->t7; c8->t8; c9->t9; c10->t10; c11->t11; c12->t12; c13->t13; c14->t14;
+  t1->A; t2->A; t3->A; t4->A; t5->B; t6->B; t7->B; t8->C; t9->C; t10->C; t11->D; t12->D; t13->D; t14->D;
+}
