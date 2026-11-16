@@ -50,6 +50,13 @@ tasks/<date>_<Name>/
 - Write deliverables in the language of the task (Ukrainian tasks in Ukrainian, German in German, and so on).
 - Plain, human wording; no filler. Keep the user's own phrasing in conditions untouched.
 
+## 6a. Presentations and design
+
+- Professional consulting style: full-sentence takeaway titles, a small section tracker, thin rules, flat tables, native or drawn charts, a source line and page number on every slide.
+- **Never use rounded corners** (shapes, cards, charts). Rectangles only.
+- Palette: Rose Pine (dark base `#191724`, text `#e0def4`, subtle `#908caa`, rules `#403d52`, one gold accent `#f6c177`, `#eb6f92` for negative values). One accent colour per deck.
+- No "stat cards", no decorative boxes, no AI-looking gradients or icons. Render the deck to images and check every slide before saying it is done.
+
 ## 7. Work log
 
 After every working day add a block **at the top** of [`WORKLOG.md`](WORKLOG.md):
