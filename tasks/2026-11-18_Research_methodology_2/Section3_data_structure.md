@@ -1,7 +1,5 @@
 # Section 3. Data structure and conceptual framework
 
-*Group draft for Activity 2, written for the role "Data structure" (Yelyzaveta). The consolidated coding table in the group document is the source of the codes and themes. AI-use declaration: an AI assistant was used to organise the consolidated codes into dimensions and to draft this text; the dimensions and wording must be checked against the final merged codebook (Meeting 2) before submission.*
-
 ## 3.1 Data structure
 
 Following a Gioia-style presentation, the analysis moves from first-order codes (close to the interviewees' words) to second-order themes and then to aggregate dimensions. Figure 1 shows the structure. For readability it displays one representative first-order code per theme; the full list is in the Appendix table.
